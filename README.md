@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiogoNMSantos
-- 👀 I’m interested in Android app
-- 🌱 I’m currently learning Kotlin and Android
-- 💞️ I’m looking to collaborate on Android app development
+- 👀 I’m interested in Web desing in both java script and type script
+- 🌱 I’m currently learning type scrpt and I know a bit of java script
+- 💞️ I’m looking to collaborate on Web design
 - 📫 How to reach me @DiogoNMSantos on Twitter
 
 <!---

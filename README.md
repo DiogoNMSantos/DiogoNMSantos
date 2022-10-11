@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DiogoNMSantos
-- 👀 I’m interested in Web desing in both java script and type script
-- 🌱 I’m currently learning type scrpt and I know a bit of java script
-- 💞️ I’m looking to collaborate on Web design
-- 📫 How to reach me @DiogoNMSantos on Twitter
+- 👀 I’m interested in Web development in both Javascript and Typescript
+- 🌱 I’m currently learning Typescript and I know a bit of Javascript
+- 💞️ I’m looking to collaborate on Web development
+- 📫 Reach me on Twitter @DiogoNMSantos 
 
 <!---
 DiogoNMSantos/DiogoNMSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
